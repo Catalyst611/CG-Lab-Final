@@ -25,3 +25,6 @@ uv run python -m src.Work0.main
 
 ## 4. 效果展示
 ![Gravity Swarm Demo](./assets/demo.gif)
+
+学号：202411998324
+姓名：李佳澍
