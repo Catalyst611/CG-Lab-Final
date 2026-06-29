@@ -34,3 +34,4 @@ uv run python -m src.Work2.bonus
 
 学号：202411998324 
 姓名：李佳澍
+人工智能专业
