@@ -29,3 +29,6 @@ uv run python -m src.Work4.add
 
 ### 进阶：物理折射玻璃与 MSAA 抗锯齿
 ![Bonus](./assets/add.gif)
+
+学号：202411998324 
+姓名：李佳澍
