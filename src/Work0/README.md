@@ -28,3 +28,4 @@ uv run python -m src.Work0.main
 
 学号：202411998324
 姓名：李佳澍
+人工智能专业
