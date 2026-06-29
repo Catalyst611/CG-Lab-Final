@@ -33,3 +33,6 @@ uv run python -m src.Work3.app
 ### 进阶效果：Blinn-Phong 模型与硬阴影
 *(注：Blinn-Phong 使用半程向量 $H$，高光过渡在边缘大入射角处更为平滑真实。两个几何体的遮挡面产生了精准的物理阴影。)*
 ![Blinn-Phong Demo](./assets/blinn.gif)
+
+学号：202411998324 
+姓名：李佳澍
