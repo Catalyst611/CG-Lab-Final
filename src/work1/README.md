@@ -49,3 +49,6 @@ uv run python -m src.Work1.interp
 
 ### 【补充功能】旋转插值过渡 (R0 -> Rt -> R1)
 ![Interpolation Demo](./assets/interp.gif)
+
+学号：202411998324 
+姓名：李佳澍
