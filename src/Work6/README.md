@@ -27,3 +27,6 @@ python -m src.Work6.bonus
 ### 2. 【进阶】全维度弹簧与空间刚体碰撞
 *(引入 Shear 与 Bending 弹簧增强网格稳定性，并与空间中的刚体球发生接触碰撞)*
 ![Bonus Collision](./assets/bonus_collision.gif)
+
+学号：202411998324 
+姓名：李佳澍
