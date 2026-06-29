@@ -31,3 +31,6 @@ uv run python -m src.Work2.bonus
 
 ### 进阶：反走样与 B样条切换
 ![B-Spline](./assets/bspline.gif)
+
+学号：202411998324 
+姓名：李佳澍
